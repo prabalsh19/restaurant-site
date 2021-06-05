@@ -1,0 +1,26 @@
+:root{
+    --yellow:#ffc600;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+li {
+    
+    float: left;
+    list-style: none;
+    margin-right: 4rem;
+    margin-top: 2rem;
+    background-color: var(--yellow);
+    width: 30vh;
+    padding: 1rem 0;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
